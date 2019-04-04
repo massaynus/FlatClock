@@ -10,8 +10,5 @@ FlatClock folder has the source filee / the whole project
 Packages has the dll library for the circular progress bar used in this project.
 
 
-<b>screenshot</b><br>
-
-<div>
-<img src="https://doc-0c-3c-docs.googleusercontent.com/docs/securesc/f0q6qaiffomuqrohka1p6fc9u26g5q8k/vm00pt6910cpsrhmphpm1vq497ghe2kl/1554415200000/03420847377353729291/03420847377353729291/1WkBBpvTmQIXyV2v475yLJUrSfNfDgBP_">
-</div>
+<h2><b>screenshot</b></h2><br>
+<img src="http://www.mediafire.com/convkey/6a95/972l833bkgpqjmbzg.jpg" alt="Desktop screenshot">
