@@ -27,6 +27,7 @@ namespace FlatClock
 
             Clock.SuperscriptText = Clock.Value.ToString("00");
             Clock.Text = DateTime.Now.ToShortTimeString();
+            label1.Text = DateTime.Today.ToLongDateString();
         }
 
         private void Clock_Click(object sender, EventArgs e)
@@ -37,6 +38,7 @@ namespace FlatClock
         private void Form1_Load(object sender, EventArgs e)
         {
             Clock.Value = DateTime.Now.Second;
+            this.TransparencyKey = this.BackColor;
         }
 
         private void button1_Click(object sender, EventArgs e)

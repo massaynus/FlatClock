@@ -10,3 +10,4 @@ C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\FlatClock\FlatClock\obj\R
 C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\FlatClock\FlatClock\obj\Release\FlatClock.csproj.CopyComplete
 C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\FlatClock\FlatClock\obj\Release\FlatClock.exe
 C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\FlatClock\FlatClock\obj\Release\FlatClock.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun Projects\FlatClock\FlatClock\obj\Release\FlatClock.csprojAssemblyReference.cache
